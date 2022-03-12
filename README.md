@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aryan Jain
-- 👀 I’m interested in Game Developing 
+- 👀 I’m interested in Game Dev, Sofware Dev and Data Analysis. 
 - 🌱 I’m currently learning C/C++, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Discord : aryanj#0620 
